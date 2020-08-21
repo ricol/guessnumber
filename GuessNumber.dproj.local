@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899/12/30 00:00:00.000.pas,F:\文档\RAD Studio\Projects\Unit1.pas=F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.pas</Transaction>
-    <Transaction>1899/12/30 00:00:00.000.dproj,F:\文档\RAD Studio\Projects\Project1.dproj=F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\GuessNumber.dproj</Transaction>
-    <Transaction>1899/12/30 00:00:00.000.dfm,F:\文档\RAD Studio\Projects\Unit1.dfm=F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dproj,F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\GuessNumber.dproj=F:\文档\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.pas=F:\文档\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.dfm=F:\文档\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/22 02:28:42.406,C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\main.dfm=C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\UnitMain.dfm</Transaction>
+    <Transaction>2020/08/22 02:28:42.406,C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\main.pas=C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\UnitMain.pas</Transaction>
   </Transactions>
 </BorlandProject>
