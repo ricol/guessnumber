@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899/12/30 00:00:00.000.pas,F:\文档\RAD Studio\Projects\Unit1.pas=F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.pas</Transaction>
-    <Transaction>1899/12/30 00:00:00.000.dfm,F:\文档\RAD Studio\Projects\Unit1.dfm=F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.dfm</Transaction>
-    <Transaction>1899/12/30 00:00:00.000.dproj,F:\文档\RAD Studio\Projects\Project1.dproj=F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\GuessNumber.dproj</Transaction>
-    <Transaction>2020/08/22 02:28:42.000.406,C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\UnitMain.pas=C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\main.pas</Transaction>
-    <Transaction>2020/08/22 02:28:42.000.406,C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\UnitMain.dfm=C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\main.dfm</Transaction>
-    <Transaction>2022/03/03 23:51:47.122,=C:\Users\wangxinghe\Documents\RAD Studio\Projects\games\guessnumber\MyUnit.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dproj,F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\GuessNumber.dproj=F:\文档\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.pas=F:\文档\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,F:\文档\RAD Studio\Projects\DELPHI\猜数字游戏\UnitMain.dfm=F:\文档\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/22 02:28:42.000.406,C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\main.dfm=C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\UnitMain.dfm</Transaction>
+    <Transaction>2020/08/22 02:28:42.000.406,C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\main.pas=C:\Documents and Settings\wangxinghe\My Documents\Programs\Delphi\Game\GuessNumber\UnitMain.pas</Transaction>
+    <Transaction>2022/03/03 23:51:47.000.122,=C:\Users\wangxinghe\Documents\RAD Studio\Projects\games\guessnumber\MyUnit.pas</Transaction>
+    <Transaction>2022/03/06 16:24:50.000.698,C:\Users\wangxinghe\Documents\RAD Studio\Projects\Delphi\Game\guessnumber\MyUnit.pas=</Transaction>
+    <Transaction>2022/03/06 16:25:33.000.230,=C:\Users\wangxinghe\Documents\RAD Studio\Projects\Delphi\Game\guessnumber\MyUnit.pas</Transaction>
+    <Transaction>2022/03/09 14:48:44.967,C:\Users\wangxinghe\Documents\RAD Studio\Projects\Delphi\Game\guessnumber\MyUnit.pas=</Transaction>
   </Transactions>
 </BorlandProject>

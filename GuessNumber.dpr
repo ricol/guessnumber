@@ -2,8 +2,7 @@ program GuessNumber;
 
 uses
   Forms,
-  main in 'main.pas' {FormMain},
-  MyUnit in 'MyUnit.pas';
+  main in 'main.pas' {FormMain};
 
 {$R *.res}
 
